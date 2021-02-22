@@ -17,3 +17,7 @@ Cell Ranger (v5.0.0) count --introns TRUE
 Seurat v4.0.0
 
 R 4.0.3 (‘Bunny-Wunnies Freak Out’)
+
+# Output files
+
+Unless indicated otherwise in filename, assume they are from Analysis v1
