@@ -12,7 +12,7 @@ Reference genome: Danio_rerio.GRCz11 (GFP allele added)
 
 Reference annotation: Danio_rerio.GRCz11.102 (GFP allele added)
 
-Cell Ranger (v5.0.0) count --introns TRUE
+Cell Ranger (v5.0.0) count --introns TRUE (see web_summary HTML file; opens in browser)
 
 Seurat v4.0.0
 
@@ -20,4 +20,4 @@ R 4.0.3 (‘Bunny-Wunnies Freak Out’)
 
 # Output files
 
-Unless indicated otherwise in filename, assume they are from Analysis v1
+Unless indicated otherwise in filename, assume they are from Analysis v1.
