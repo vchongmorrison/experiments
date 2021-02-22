@@ -2,8 +2,6 @@
 
 ## scRNAseq of developing zebrafish habenula
 
-Sample: Tg(gng8:GFP), 4dpf chopped heads
-
 Chemistry: 10X Genomics Single Cell 3' v2
 
 Library prepared by Renato Martinho in July 2017
