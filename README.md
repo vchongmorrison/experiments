@@ -7,32 +7,32 @@ Chemistry: 10X Genomics Single Cell 3' v2
 Library prepared by Renato Martinho in July 2017
 
 
-### - Analysis v1 -
+>### - Analysis v1 -
+>
+>Reference genome: Danio_rerio.GRCz11 release 102 (GFP allele added)
+>
+>Reference annotation: Danio_rerio.GRCz11.102 (GFP allele added)
+>
+>Cell Ranger (v5.0.0) count --introns TRUE (see web_summary HTML file; opens in browser)
+>
+>=====> `raw_feature_bc_matrix`
+>
+>Seurat v4.0.0
+>
+>R 4.0.3 (‘Bunny-Wunnies Freak Out’) <br>
 
-Reference genome: Danio_rerio.GRCz11 release 102 (GFP allele added)
 
-Reference annotation: Danio_rerio.GRCz11.102 (GFP allele added)
-
-Cell Ranger (v5.0.0) count --introns TRUE (see web_summary HTML file; opens in browser)
-
-=====> `raw_feature_bc_matrix`
-
-Seurat v4.0.0
-
-R 4.0.3 (‘Bunny-Wunnies Freak Out’)
-
-
-### - Analysis v2 -
-
-Reference genome: Danio_rerio.GRCz11 release 103
-
-Reference annotation: Danio_rerio.GRCz11.103
-
-Kallisto-Bustools; kb-python (v0.25.1) count --workflow nucleus
-
-=====> `adata.h5ad.zip`
-
-Python 3/3.8
+>### - Analysis v2 -
+>
+>Reference genome: Danio_rerio.GRCz11 release 103
+>
+>Reference annotation: Danio_rerio.GRCz11.103
+>
+>Kallisto-Bustools; kb-python (v0.25.1) count --workflow nucleus
+>
+>=====> `adata.h5ad.zip` (from counts_unfiltered) 
+>
+>Python 3/3.8
 
 
 ## Output files
