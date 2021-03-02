@@ -6,6 +6,7 @@ Chemistry: 10X Genomics Single Cell 3' v2
 
 Library prepared by Renato Martinho in July 2017
 
+<br>
 
 >### - Analysis v1 -
 >
@@ -19,8 +20,9 @@ Library prepared by Renato Martinho in July 2017
 >
 >Seurat v4.0.0
 >
->R 4.0.3 (‘Bunny-Wunnies Freak Out’) <br>
+>R 4.0.3 (‘Bunny-Wunnies Freak Out’)
 
+<br>
 
 >### - Analysis v2 -
 >
@@ -30,10 +32,11 @@ Library prepared by Renato Martinho in July 2017
 >
 >Kallisto-Bustools; kb-python (v0.25.1) count --workflow nucleus
 >
->=====> `adata.h5ad.zip` (from counts_unfiltered) 
+>=====> `adata.h5ad` from `counts_unfiltered` (ask me for download link)
 >
 >Python 3/3.8
 
+<br>
 
 ## Output files
 
