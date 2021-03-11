@@ -30,7 +30,7 @@ Library prepared by Renato Martinho in July 2017
 >
 >Reference annotation: Danio_rerio.GRCz11.103
 >
->Kallisto-BUStools; kb-python (v0.25.1) count --workflow nucleus
+>kallisto-bustools; kb-python (v0.25.1) count --workflow nucleus
 >
 >=====> `adata.h5ad` from `counts_unfiltered` (ask me for download link)
 >
