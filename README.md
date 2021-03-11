@@ -38,6 +38,6 @@ Library prepared by Renato Gomes Da Silva Martinho (PhD) in July 2017
 
 <br>
 
-## Output files
+## Outputs
 
-Unless indicated otherwise in filename, assume they are from Analysis v1.
+Unless indicated otherwise in file or folder name, assume they are from Analysis v1.
