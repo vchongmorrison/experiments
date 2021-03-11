@@ -4,7 +4,7 @@
 
 Chemistry: 10X Genomics Single Cell 3' v2
 
-Library prepared by Renato Martinho in July 2017
+Library prepared by Renato Gomes Da Silva Martinho (PhD) in July 2017
 
 <br>
 
