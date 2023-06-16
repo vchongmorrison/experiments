@@ -1,4 +1,4 @@
-# IN PROGRESS - USE RESULTS AT OWN RISK
+# ARCHIVED - USE RESULTS AT OWN RISK
 
 ## scRNAseq of developing zebrafish habenula
 
